@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Allows you to receive informations and updates about New World directly to a selected channel.",
+    "USAGE": "{{prefix}}setnews <#channel>",
+    "EXAMPLES": "{{prefix}}setnews #official-tweets",
+    "MISSING_STATUS": "You must specify an action between `edit` and `off`.",
+    "CANCEL": "The operation has been cancelled.",
+    "FORM_1": "In which channel will the news messages be sent?\n\n:arrow_right_hook: *Answer by mentioning a channel or type \"cancel\" to cancel the operation.*",
+    "FORM_2": "Do you want to receive tweets replies?\n\n :arrow_right_hook: *Answer with \"yes\" or \"no\", it's disabled by default or type \"cancel\" to cancel the operation.*",
+    "SUCCESS": "Alright, the news system is now enabled.\n\n:arrow_right_hook: *Answer by sending `{{prefix}}configuration` to see the updated server configuration.*",
+    "DISABLED": "News system have just been disabled!\n\n:arrow_right_hook: *Answer by sending `{{prefix}}configuration` to see the updated server configuration.*"
+}
