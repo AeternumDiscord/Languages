@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Allows you to receive informations and updates about New World directly to a selected channel.",
-    "USAGE": "{{prefix}}setnews <#channel>",
-    "EXAMPLES": "{{prefix}}setnews #official-tweets",
+    "USAGE": "{{prefix}}setnews <edit|off>",
+    "EXAMPLES": "{{prefix}}setnews edit",
     "MISSING_STATUS": "You must specify an action between `edit` and `off`.",
     "CANCEL": "The operation has been cancelled.",
     "FORM_1": "In which channel will the news messages be sent?\n\n:arrow_right_hook: *Answer by mentioning a channel or type \"cancel\" to cancel the operation.*",

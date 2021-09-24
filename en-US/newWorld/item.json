@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Allows you to search for information about the requested weapon, tool, armor, ...",
+    "USAGE": "{{prefix}}item <item>",
+    "EXAMPLES": "{{prefix}}item Worn Longsword",
+    "NOT_FOUND": "This item isn't yet in our database or this is not a item. Try with another item.",
+    "NO_ARGS": "You must enter a item to search"
+}
