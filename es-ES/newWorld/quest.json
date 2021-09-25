@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Allows you to search for information about the requested quest.",
+    "DESCRIPTION": "Te permite buscar información de la quest indicada.",
     "USAGE": "{{prefix}}quest <quest>",
     "EXAMPLES": "{{prefix}}quest Shattered Mountain",
-    "NOT_FOUND": "This quest isn't yet in our database or this is not a quest. Try with another quest.",
-    "NO_ARGS": "You must enter a quest to search",
-    "NO_TERRITORY": "The Territory Mission system is in progress, try later."
+    "NOT_FOUND": "Esta quest no está aún en nuestra base de datos o no es un perk. Prueba con otra quest.",
+    "NO_ARGS": "Debes introducir la quest a buscar",
+    "NO_TERRITORY": "El sistema de misiones de territorio está en proceso, intentalo mas tarde."
 }
