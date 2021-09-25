@@ -1,8 +1,0 @@
-{
-    "DESCRIPTION": "Te permite buscar información de la quest indicada.",
-    "USAGE": "{{prefix}}quest <quest>",
-    "EXAMPLES": "{{prefix}}quest Shattered Mountain",
-    "NOT_FOUND": "Esta quest no está aún en nuestra base de datos o no es un perk. Prueba con otra quest.",
-    "NO_ARGS": "Debes introducir la quest a buscar",
-    "NO_TERRITORY": "El sistema de misiones de territorio está en proceso, intentalo mas tarde."
-}
