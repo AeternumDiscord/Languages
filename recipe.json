@@ -1,8 +1,0 @@
-{
-    "DESCRIPTION": "Te permite buscar información de la receta indicada.",
-    "USAGE": "{{prefix}}recipe <recipe>\n{{prefix}}recipe <recipe> <number>",
-    "EXAMPLES": "{{prefix}}recipe Axe of the abyss\n{{prefix}}recipe Axe of the abyss 10",
-    "NOT_FOUND": "Esta receta no está aún en nuestra base de datos o no es un receta. Prueba con otra receta.",
-    "NO_ARGS": "Debes introducir la receta a buscar",
-    "NO_TERRITORY": "El sistema de misiones de territorio está en proceso, intentalo mas tarde."
-}
