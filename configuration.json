@@ -1,9 +1,0 @@
-{
-    "DESCRIPTION": "Muestra la configuracion actual del servidor.",
-    "USAGE": "{{prefix}}configuration",
-    "EXAMPLES": "{{prefix}}configuration",
-    "PREFIX_TITLE": "Server prefix",
-    "NEWS_TITLE": "Noticias",
-    "NEWS_CONTENT": "Canal: {{channel}}\nReplies: {{replies}}",
-    "DISABLED": "Deshabilitado"
-}
