@@ -1,0 +1,9 @@
+{
+    "DESCRIPTION": "Sunucu ayarlarını gösterir.",
+    "USAGE": "{{prefix}}configuration",
+    "EXAMPLES": "{{prefix}}configuration",
+    "PREFIX_TITLE": "Sunucu prefix",
+    "NEWS_TITLE": "Haber Sistemi",
+    "NEWS_CONTENT": "Kanal: {{channel}}\nCevaplar: {{replies}}",
+    "DISABLED": "Devre dışı"
+}

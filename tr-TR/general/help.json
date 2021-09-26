@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Aeternum Bot için komut listesi veya komut yardımı hakkında bilgi almanızı sağlar.",
+    "USAGE": "{{prefix}}help (komut)",
+    "EXAMPLES": "{{prefix}}help\n{{prefix}}help ping",
+    "NOT_FOUND": "`{{search}}` geçerli bir komut değil.",
+    "FIELD_DESCRIPTION": "Açıklama",
+    "FIELD_USAGE": "Kullanım",
+    "FIELD_EXAMPLES": "Örnekler",
+    "FIELD_ALIASES": "Eşdeğeri",
+    "FIELD_PERMISSIONS": "İzinler",
+    "NO_ALIAS": "Eşdeğeri yok",
+    "CMD_TITLE": "Bu komut hakkında bilgiler: {{prefix}}{{cmd}}", 
+    "INFO": "Belirli bir komut hakkında yardım almak için `{{prefix}}help <komut ismi> yazın.`\n\nAeternum Discord doğrulaması beklediği için şu an eklemenemez, hazır olduğunda duyuracağız.",
+    "TITLE": "{{name}} | Komutlar",
+    "NO_REQUIRED_PERMISSION": "Bu komutu çalıştırmak için özel bir izne gerek yok."
+}

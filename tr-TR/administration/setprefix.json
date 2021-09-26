@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Aeternum botunun prefix'ini değiştirmek için kullanılır.",
+    "USAGE": "{{prefix}}setprefix <seçtiğiniz prefix>",
+    "EXAMPLES": "{{prefix}}setprefix !",
+    "MISSING_PREFIX": "Lütfen geçerli bir prefix girin.",
+    "TOO_LONG": "Prefix maksimum 5 karakter olabilir.",
+    "SUCCESS": "Aeternum Bot prefix'i `{{prefix}}` olarak güncellendi."
+}
