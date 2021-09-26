@@ -3,5 +3,5 @@
     "USAGE": "{{prefix}}setlang [idioma]",
     "EXAMPLES": "{{prefix}}setlang english\n{{prefix}}setlang spanish",
     "MISSING_LANG": "Please enter a valid language between theses: {{list}}",
-    "SUCCESS": ":flag_es: ¡El idioma de este servidor ahora es Español!"
+    "SUCCESS": ":flag_es: ¡El idioma de este servidor ahora es Spanish!"
 }

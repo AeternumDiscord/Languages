@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Muestra información sobre Aeternum",
-    "USAGE": "{{prefix}}stats",
-    "EXAMPLES": "{{prefix}}stats",
+    "USAGE": "{{prefix}}info",
+    "EXAMPLES": "{{prefix}}info",
     "COUNTS_TITLE": "Estadisticas",
     "COUNTS_CONTENT": "Servidores: {{servers}}",
     "VERSIONS_TITLE": "Usando",

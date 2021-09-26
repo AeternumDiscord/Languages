@@ -4,5 +4,14 @@
     "EXAMPLES": "{{prefix}}quest Shattered Mountain",
     "NOT_FOUND": "Esta quest no está aún en nuestra base de datos o no es un perk. Prueba con otra quest.",
     "NO_ARGS": "Debes introducir la quest a buscar",
-    "NO_TERRITORY": "El sistema de misiones de territorio está en proceso, intentalo mas tarde."
+    "NO_TERRITORY": "El sistema de misiones de territorio está en proceso, intentalo mas tarde.",
+    "QUEST_GIVER_TITLE": "NPC - Quest Giver",
+    "TURN_IN_TITLE": "NPC - Turn In",
+    "REQUIRED_TRADE_SKILL_TITLE": "Required Tradeskill",
+    "REQUIRED_ITEMS_TITLE": "Required Items",
+    "GIVEN_ITEMS_TITLE": "Given Items",
+    "RESOURCE_REWARDS_TITLE": "Resource Rewards",
+    "ITEM_REWARDS_TITLE": "Item Rewards",
+    "REPEATABLE_TITLE": "Repeatable",
+    "PVP_TITLE": "PvP"
 }

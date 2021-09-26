@@ -25,7 +25,7 @@
     "MISSING_BOT_PERMS": "Necesito los siguientes permisos para ejecutar este comando: {{list}}",
     "MISSING_MEMBER_PERMS": "Necesitas los siguientes permisos para ejecutar el siguiente comando: {{list}}",
     "RESTRICTED_CHANNEL": "Los comandos no están permitidos en {{channel}}.",
-    "EVERYONE_MENTION": "No estás habilitado a mencionar a "everyone" o "here" en los comandos.",
+    "EVERYONE_MENTION": "No estás habilitado a mencionar a \"everyone\" o \"here\" en los comandos.",
     "OWNER_ONLY": "Solo el dueño de Aeternum puede usar ese comandos.",
     "COOLDOWNED": "Tienes que esperar **{{seconds}}** segundo(s) para usar ese comando otra vez.",
     "CANNOT_DM": "No tengo los permisos para enviar mensajes privados... Revisa tus opciones de privacidad."

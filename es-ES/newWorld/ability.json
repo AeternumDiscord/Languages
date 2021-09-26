@@ -3,5 +3,8 @@
     "USAGE": "{{prefix}}ability <ability>",
     "EXAMPLES": "{{prefix}}ability Leaping Strike",
     "NOT_FOUND": "Esta habilidad no está aún en nuestra base de datos o no es una habilidad. Prueba otro nombre.",
-    "NO_ARGS": "Tienes que introducir una habilidad a buscar"
+    "NO_ARGS": "Tienes que introducir una habilidad a buscar",
+    "WEAPON_TITLE": "Weapon",
+    "SKILL_TREE_TITLE": "Skill Tree",
+    "COOLDOWN_TITLE": "Cooldown"
 }
