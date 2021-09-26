@@ -16,3 +16,7 @@ Language files for the [Aeternum Discord Bot](https://discord.gg/J3PSURQ8xZ)
 > ![Pull request gif](images/pull_request.gif)
 
 Once the pull request is created, you don't have to do anything else.
+
+# Credits
+
+Thanks to 🇹🇷 [Excoupe](https://github.com/excoupe) and 🇪🇸 [HOLTHAIN](https://github.com/HOLTHAIN) for their contribution.
