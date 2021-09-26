@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Shows Aeternum stats & informations",
+    "USAGE": "{{prefix}}info",
+    "EXAMPLES": "{{prefix}}info",
+    "COUNTS_TITLE": "Statistics",
+    "COUNTS_CONTENT": "Servers: {{servers}}",
+    "VERSIONS_TITLE": "Using",
+    "ONLINE_TITLE": "Online",
+    "ONLINE_CONTENT": "Online for {{time}}",
+    "CREDITS_TITLE": "Acknowledgements & credits",
+    "CREDITS_CONTENT": "**Contributors**:\n{{contributors}}\n**Donators**:\n{{donators}}\n**Translators**:\n{{translators}}",
+    "MADE": "Aeternum is a New World Discord bot developed by glazk0#7861 & Marco.#2455"
+}
