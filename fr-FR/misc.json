@@ -20,7 +20,7 @@
     "NO_REASON_PROVIDED": "No reason provided",
     "NO_USER_FOUND_ID": "No user on Discord has the ID `{{id}}`.",
     "HELLO_SERVER": "Hello **{{username}}**, my prefix on this server is `{{prefix}}`. Use `{{prefix}}help` to get the list of the commands.",
-    "HELLO_DM": "Hello **{{username}}**, as you are currently in direct message you don't need to add a prefix before command name.",
+    "HELLO_DM": "Hello **{{username}}**, blablalbalblalbalbdoàpfihgqdfopqsdio))^qsdfgojdf are currently in direct message you don't need to add a prefix before command name.",
     "GUILD_ONLY": "This command is only available on a server.",
     "MISSING_BOT_PERMS": "I need the following permissions to execute this command: {{list}}",
     "MISSING_MEMBER_PERMS": "You need the following permissions to execute this command: {{list}}",
