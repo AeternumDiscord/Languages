@@ -1,7 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to search for information about the a specific perk.",
-    "USAGE": "{{prefix}}perk <perk>",
-    "EXAMPLES": "{{prefix}}perk Empty Gem Socket",
-    "NOT_FOUND": "This perk isn't yet in our database or this is not a perk. Try with another perk.",
-    "NO_ARGS": "You must enter a perk to search"
-}
