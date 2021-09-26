@@ -1,7 +1,0 @@
-{
-    "DESCRIPTION": "Allows you to search for information about the a specific ability.",
-    "USAGE": "{{prefix}}ability <ability>",
-    "EXAMPLES": "{{prefix}}ability Leaping Strike",
-    "NOT_FOUND": "This ability isn't yet in our database or this is not a ability. Try with another item.",
-    "NO_ARGS": "You must enter a ability to search"
-}
