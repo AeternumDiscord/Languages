@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Seçtiğiniz bir kanala gönderilmek üzere New World güncellemelerini almanızı sağlar.",
+    "USAGE": "{{prefix}}setnews <edit|off>",
+    "EXAMPLES": "{{prefix}}setnews edit",
+    "MISSING_STATUS": "Argüman olarak `edit` veya `off` yazmalısınız.",
+    "CANCEL": "İşlem iptal edildi.",
+    "FORM_1": "Mesajlar hangi kanala gönderilsin?\n\n:arrow_right_hook: *Bir kanalı etiketleyerek devam edin veya işlemi iptal etmek için \"cancel\" yazın.*",
+    "FORM_2": "Yanıtlanmış tweetleri de görmek istiyor musunuz?\n\n :arrow_right_hook: *\"yes\" veya \"no\" yazarak cevap verin (normalde kapalı olarak gelir) veya işlemi iptal etmek için \"cancel\" yazın.*",
+    "SUCCESS": "Haber sistemi aktif edildi.\n\n:arrow_right_hook: *Güncellenmiş sunucu ayarlarını görmek için `{{prefix}}configuration` yazın.*",
+    "DISABLED": "Haber sistemi kapatıldı!\n\n:arrow_right_hook: *Güncellenmiş sunucu ayarlarını görmek için `{{prefix}}configuration` yazın.*"
+}

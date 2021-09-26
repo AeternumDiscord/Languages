@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Bir perk ile alakalı bilgi edinmenizi sağlar.",
+    "USAGE": "{{prefix}}perk <perk adı>",
+    "EXAMPLES": "{{prefix}}perk Empty Gem Socket",
+    "NOT_FOUND": "Bu perk henüz veritabanımızda yok veya yanlış perk adı girdiniz. Tekrar deneyin.",
+    "NO_ARGS": "Arama yapmak için bir perk adı girmelisiniz."
+}
