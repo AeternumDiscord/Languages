@@ -1,0 +1,8 @@
+{
+    "DESCRIPTION": "Bir tarif ile alakalı bilgi edinmenizi sağlar.",
+    "USAGE": "{{prefix}}recipe <tarif adı>\n{{prefix}}recipe <tarif adı> <üretim sayısı>",
+    "EXAMPLES": "{{prefix}}recipe Axe of the Abyss\n{{prefix}}recipe Axe of the Abyss 10",
+    "NOT_FOUND": "Bu tarif henüz veritabanımızda yok veya yanlış tarif adı girdiniz. Tekrar deneyin.",
+    "NO_ARGS": "Arama yapmak için bir tarif adı girmelisiniz.",
+    "NO_TERRITORY": "Territory Görev sistemi henüz yapım aşamasında, daha sonra tekrar deneyin."
+}

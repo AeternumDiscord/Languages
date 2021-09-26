@@ -1,0 +1,7 @@
+{
+    "DESCRIPTION": "Bir yetenek ile alakalı bilgi edinmenizi sağlar.",
+    "USAGE": "{{prefix}}ability <yetenek adı>",
+    "EXAMPLES": "{{prefix}}ability Leaping Strike",
+    "NOT_FOUND": "Bu yetenek henüz veritabanımızda yok veya yanlış yetenek adı girdiniz. Tekrar deneyin.",
+    "NO_ARGS": "Arama yapmak için bir yetenek adı girmelisiniz."
+}
