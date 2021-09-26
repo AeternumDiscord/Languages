@@ -7,7 +7,7 @@ Language files for the [Aeternum Discord Bot](https://discord.gg/J3PSURQ8xZ)
    
 > ![Fork gif](images/fork.gif)
 
-1. Now, you can edit the files and save it when you're done, it won't change anything on the bot.
+2. Now, you can edit the files and save it when you're done, it won't change anything on the bot.
 
 > ![Edit file gif](images/edit_file.gif)
 
