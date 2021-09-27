@@ -4,12 +4,12 @@
     "EXAMPLES": "{{prefix}}perk Empty Gem Socket",
     "NOT_FOUND": "Esta perk no está aún en nuestra base de datos o no es un perk. Prueba con otra perk.",
     "NO_ARGS": "Debes introducir la perk a buscar",
-    "CATEGORY_TITLE": "Category",
-    "RARITY_TITLE": "Rarity",
+    "CATEGORY_TITLE": "Categoría",
+    "RARITY_TITLE": "Rareza",
     "TIER_TITLE": "Tier",
-    "WATER_TYPE_TITLE": "Water Type",
-    "FISH_SIZE_CHANCE_TITLE": "Fish Size Chance",
-    "ATTRIBUTES_TITLE": "Attributes",
-    "SCALES_TITLE": "Scales",
-    "EQUIPPABLE_ON_TITLE": "Equippable on"
+    "WATER_TYPE_TITLE": "Tipo de agua",
+    "FISH_SIZE_CHANCE_TITLE": "Probabilidad de tamaño de pez",
+    "ATTRIBUTES_TITLE": "Atributos",
+    "SCALES_TITLE": "Escala",
+    "EQUIPPABLE_ON_TITLE": "Equipable en"
 }
