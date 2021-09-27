@@ -5,7 +5,7 @@
     "MISSING_STATUS": "Debes especificar una acción entre `edit` y `off`.",
     "CANCEL": "La operación ha sido cancelada.",
     "FORM_1": "En que canal quieres recibir las noticias que envie?\n\n:arrow_right_hook: *Responde mencionando el canal o escribe \"cancel\" para cancelar la operación.*",
-    "FORM_2": "Do you want to receive tweets replies?\n\n :arrow_right_hook: *Responde con \"yes\" or \"no\", está deshabilitado o escribe \"cancel\" para cancelar la operación.*",
+    "FORM_2": "Quieres recibir respuestas de tweets?\n\n :arrow_right_hook: *Responde con \"yes\" or \"no\", está deshabilitado o escribe \"cancel\" para cancelar la operación.*",
     "SUCCESS": "Perfecto, las noticias están habilitadas.\n\n:arrow_right_hook: *Responde escribiendo `{{prefix}}configuration` para ver la configuración del servidor.*",
     "DISABLED": "El sistema de noticias ha sido deshabilitado!\n\n:arrow_right_hook: *Responde escribiendo `{{prefix}}configuration` para ver la configuración del servidor.*"
 }
