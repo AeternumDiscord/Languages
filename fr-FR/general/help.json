@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Displays commands list or specific command help of Aeternum.",
+    "DESCRIPTION": "Affiche la liste des commandes, ou de l'aide pour une commande d'Aeternum.",
     "USAGE": "{{prefix}}help (commande)",
     "EXAMPLES": "{{prefix}}help\n{{prefix}}help ping",
     "NOT_FOUND": "`{{search}}` n'est pas une commande valide.",
@@ -9,7 +9,7 @@
     "FIELD_ALIASES": "Alias",
     "FIELD_PERMISSIONS": "Permissions",
     "NO_ALIAS": "Aucun alias",
-    "CMD_TITLE": "Informations about command: {{prefix}}{{cmd}}",
+    "CMD_TITLE": "Informations sur la commande: {{prefix}}{{cmd}}",
     "INFO": "Pour avoir de l'aide avec une commande spécifique tapez `{{prefix}}help <commande>`",
     "TITLE": "{{name}} | Commandes",
     "NO_REQUIRED_PERMISSION": "Aucune permission spécifique n'est nécessaire pour exécuter cette commande."

@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "Displays information about the requested world.",
-    "USAGE": "{{prefix}}world <world name>",
+    "DESCRIPTION": "Affiche des informations sur le Monde demandé.",
+    "USAGE": "{{prefix}}world <nom du Monde>",
     "EXAMPLES": "{{prefix}}world El Dorado",
-    "NOT_FOUND": "I did not find this ability. You should try with another one.",
-    "NO_ARGS": "You should enter a world to search.",
-    "WORLD_NAME_TITLE": "World Name",
-    "WORLD_SET": "World Set",
-    "REGION_TITLE": "Region",
-    "PLAYER_CAPACITY_TITLE": "Player Capacity",
-    "CONNECTED_PLAYERS_TITLE": "Connected Players",
-    "CURRENT_QUEUE_TITLE": "Current Queue",
-    "QUEUE_TIME_TITLE": "Queue Time"
+    "NOT_FOUND": "Je n'ai pas trouvé ce Monde. Vous devriez essayer avec un autre.",
+    "NO_ARGS": "Vous devriez entrer un Monde à rechercher.",
+    "WORLD_NAME_TITLE": "Nom du Monde",
+    "WORLD_SET": "Groupe de Monde",
+    "REGION_TITLE": "Région",
+    "PLAYER_CAPACITY_TITLE": "Capacité max. de joueurs",
+    "CONNECTED_PLAYERS_TITLE": "Joueurs en ligne",
+    "CURRENT_QUEUE_TITLE": "File d'attente actuelle",
+    "QUEUE_TIME_TITLE": "Temps de file d'attente"
 }

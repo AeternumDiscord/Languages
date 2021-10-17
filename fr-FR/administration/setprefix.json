@@ -1,6 +1,6 @@
 {
-    "DESCRIPTION": "Allows you to change the current Aeternum prefix configuration.",
-    "USAGE": "{{prefix}}setprefix <prefix>",
+    "DESCRIPTION": "Vous permet de changer la configuration du préfixe d'Aeternum.",
+    "USAGE": "{{prefix}}setprefix <préfixe>",
     "EXAMPLES": "{{prefix}}setprefix !",
     "MISSING_PREFIX": "Merci d'entrer un préfixe valide.",
     "TOO_LONG": "Le préfixe ne peut faire plus de 5 caractères.",

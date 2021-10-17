@@ -13,7 +13,7 @@
     "INVALID_REGION": "Merci de spécifier une région valide.",
     "INVALID_CHANNEL": "Merci de spécifier un channel valide.",
     "INVALID_SIZE": "Merci de spécifier un nombre entre 1 et 100.",
-    "INVALID_TIME": "You must enter a valid time. Unités disponibles: `s` (secondes), `m` (minutes), `h` (heures) or `d` (jours)",
+    "INVALID_TIME": "Vous devez spécifier une unité de temps valide. Unités disponibles: `s` (secondes), `m` (minutes), `h` (heures) or `d` (jours)",
     "INVALID_NUMBER": "Merci de spécifier un nombre valide.",
     "INVALID_NUMBER_RANGE": "Merci de spécifier un nombre valide entre **{{min}}** et **{{max}}**.",
     "BOT_USER": "Cet utilisateur est un bot.",
@@ -25,8 +25,8 @@
     "MISSING_BOT_PERMS": "J'ai besoin des permissions suivantes pour exécuter cette commande: {{list}}",
     "MISSING_MEMBER_PERMS": "Vous avez besoin des permissions suivantes pour exécuter cette commande: {{list}}",
     "RESTRICTED_CHANNEL": "Les commandes ne sont pas autorisées dans {{channel}}.",
-    "EVERYONE_MENTION": "You are not allowed to mention everyone or here in the commands.",
-    "OWNER_ONLY": "Only the owner of Aeternum can do these commands.",
-    "COOLDOWNED": "You must wait **{{seconds}}** second(s) to be able to run this command again.",
-    "CANNOT_DM": "I don't have permission to send you private messages... Please update your privacy settings."
+    "EVERYONE_MENTION": "Vous n'êtes pas autorisé à mentionner everyone ou here dans les commandes.",
+    "OWNER_ONLY": "Seulement le propriétaire d'Aeternum peut exécuter cette commande.",
+    "COOLDOWNED": "Merci de patienter **{{seconds}}** seconde(s) avant de pouvoir renvoyer cette commande.",
+    "CANNOT_DM": "Je n'ai pas la permission de vous envoyer un message privé... Merci de mettre à jour vos paramètres de confidentialité."
 }

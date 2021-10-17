@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Permet de créer, rejoindre ou afficher des compagnies disponibles sur New World.",
-    "USAGE": "{{prefix}}company <create|delete|list> <company>",
+    "USAGE": "{{prefix}}company <create|delete|list> <compagnie>",
     "EXAMPLES": "{{prefix}}company create",
     "CREATE": "Créer",
     "DELETE": "Supprimer",
