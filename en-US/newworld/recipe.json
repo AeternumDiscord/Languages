@@ -4,7 +4,6 @@
     "EXAMPLES": "{{prefix}}recipe Axe of the abyss\n{{prefix}}recipe Axe of the abyss 10",
     "NOT_FOUND": "I did not find this recipe. You should try with another one",
     "NO_ARGS": "You should enter a recipe to search.",
-    "NO_TERRITORY": "The Territory Mission system is in progress, try later.",
     "CATEGORY_TITLE": "Category",
     "RARITY_TITLE": "Rarity",
     "TRADESKILL_TITLE": "Tradeskill",
