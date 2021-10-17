@@ -1,0 +1,22 @@
+{
+    "DESCRIPTION": "Displays information about the requested quest.",
+    "USAGE": "{{prefix}}quest <quest>",
+    "EXAMPLES": "{{prefix}}quest Shattered Mountain",
+    "NOT_FOUND": "I did not find this quest. You should try with another one.",
+    "NO_ARGS": "You should enter a quest to search.",
+    "NO_TERRITORY": "The Territory Mission system is in progress, try later.",
+    "QUEST_GIVER_TITLE": "NPC - Quest Giver",
+    "TURN_IN_TITLE": "NPC - Turn In",
+    "REQUIRED_TRADE_SKILL_TITLE": "Required Tradeskill",
+    "REQUIRED_ITEMS_TITLE": "Required Items",
+    "GIVEN_ITEMS_TITLE": "Given Items",
+    "RESOURCE_REWARDS_TITLE": "Resource Rewards",
+    "ITEM_REWARDS_TITLE": "Item Rewards",
+    "PREREQUISITES_TITLE": "Prerequisites",
+    "UNLOCKS_TITLE": "Unlocks",
+    "ARC_TITLE": "Quest Arc",
+    "SUGGESTED_LEVEL_TITLE": "Suggested Level",
+    "QUEST_ZONE_TITLE": "Quest Zone",
+    "REPEATABLE_TITLE": "Repeatable",
+    "PVP_TITLE": "PvP"
+}
