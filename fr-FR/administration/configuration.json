@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Displays the current server configuration.",
+    "DESCRIPTION": "Affiche la configuration actuelle du serveur.",
     "USAGE": "{{prefix}}configuration",
     "EXAMPLES": "{{prefix}}configuration",
-    "PREFIX_TITLE": "Server prefix",
-    "NEWS_TITLE": "News Tracker",
-    "NEWS_CONTENT": "Channel: {{channel}}\nReplies: {{replies}}",
-    "WORLD_TITLE": "World Statistics Tracker",
-    "WORLD_CONTENT": "World: {{world}}\nGlobal: {{global}}\nRegion: {{region}}",
-    "DISABLED": "Disabled"
+    "PREFIX_TITLE": "Préfixe du serveur",
+    "NEWS_TITLE": "Suivi des actualités",
+    "NEWS_CONTENT": "Channel: {{channel}}\nRéponses: {{replies}}",
+    "WORLD_TITLE": "Suivi des statistiques du Monde",
+    "WORLD_CONTENT": "Monde: {{world}}\nGlobal: {{global}}\nRégion: {{region}}",
+    "DISABLED": "Désactivé"
 }

@@ -2,7 +2,7 @@
     "DESCRIPTION": "Displays Aeternum stats & informations",
     "USAGE": "{{prefix}}info",
     "EXAMPLES": "{{prefix}}info",
-    "COUNTS_TITLE": "Statistics",
+    "COUNTS_TITLE": "Statistiques",
     "COUNTS_CONTENT": "Servers: {{servers}}\nUsers: {{users}}",
     "VERSIONS_TITLE": "Using",
     "ONLINE_TITLE": "Uptime",
