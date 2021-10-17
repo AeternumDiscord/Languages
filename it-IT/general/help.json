@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Displays commands list or specific command help of Aeternum.",
+    "USAGE": "{{prefix}}help (command)",
+    "EXAMPLES": "{{prefix}}help\n{{prefix}}help ping",
+    "NOT_FOUND": "`{{search}}` is not a valid command.",
+    "FIELD_DESCRIPTION": "Description",
+    "FIELD_USAGE": "Usage",
+    "FIELD_EXAMPLES": "Examples",
+    "FIELD_ALIASES": "Alias",
+    "FIELD_PERMISSIONS": "Permissions",
+    "NO_ALIAS": "No alias",
+    "CMD_TITLE": "Informations about command: {{prefix}}{{cmd}}",
+    "INFO": "To get help on a specific command type `{{prefix}}help <command>`",
+    "TITLE": "{{name}} | Commands",
+    "NO_REQUIRED_PERMISSION": "No specific permission is required to execute this command."
+}
