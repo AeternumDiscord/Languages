@@ -1,7 +1,0 @@
-{
-    "DESCRIPTION": "Bir silah, alet, zırh vb hakkında bilgi edinmenizi sağlar.",
-    "USAGE": "{{prefix}}item <eşya adı>",
-    "EXAMPLES": "{{prefix}}item Worn Longsword",
-    "NOT_FOUND": "Bu eşya henüz veritabanımızda yok veya yanlış eşya adı girdiniz. Tekrar deneyin.",
-    "NO_ARGS": "Arama yapmak için bir eşya adı girmelisiniz."
-}

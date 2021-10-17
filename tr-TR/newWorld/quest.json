@@ -1,8 +1,0 @@
-{
-    "DESCRIPTION": "Bir görev ile alakalı bilgi edinmenizi sağlar.",
-    "USAGE": "{{prefix}}quest <görev adı>",
-    "EXAMPLES": "{{prefix}}quest Shattered Mountain",
-    "NOT_FOUND": "Bu görev henüz veritabanımızda yok veya yanlış görev adı girdiniz. Tekrar deneyin.",
-    "NO_ARGS": "Arama yapmak için bir görev adı girmelisiniz.",
-    "NO_TERRITORY": "Territory Görev sistemi henüz yapım aşamasında, daha sonra tekrar deneyin."
-}
