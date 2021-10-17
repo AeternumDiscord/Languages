@@ -5,5 +5,7 @@
     "PREFIX_TITLE": "Sunucu prefix",
     "NEWS_TITLE": "Haber Sistemi",
     "NEWS_CONTENT": "Kanal: {{channel}}\nCevaplar: {{replies}}",
+    "WORLD_TITLE": "World Statistics Tracker",
+    "WORLD_CONTENT": "World: {{world}}\nGlobal: {{global}}\nRegion: {{region}}",
     "DISABLED": "Devre dışı"
 }
