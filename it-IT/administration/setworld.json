@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Allows you to setup a special category with the server name you want.",
+    "DESCRIPTION": "Consente di impostare una categoria speciale con il nome del server desiderato.",
     "USAGE": "{{prefix}}setworld <world name|off>",
     "EXAMPLES": "{{prefix}}setworld Inferni\n{{prefix}}setworld off"
 }

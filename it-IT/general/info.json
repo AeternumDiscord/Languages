@@ -1,13 +1,13 @@
 {
-    "DESCRIPTION": "Displays Aeternum stats & informations",
+    "DESCRIPTION": "Mostra le statistiche & informazioni di Aeternum",
     "USAGE": "{{prefix}}info",
     "EXAMPLES": "{{prefix}}info",
-    "COUNTS_TITLE": "Statistics",
-    "COUNTS_CONTENT": "Servers: {{servers}}\nUsers: {{users}}",
-    "VERSIONS_TITLE": "Using",
-    "ONLINE_TITLE": "Uptime",
-    "ONLINE_CONTENT": "Online for {{time}}",
-    "CREDITS_TITLE": "Acknowledgements & credits",
-    "CREDITS_CONTENT": "**Contributors**:\n{{contributors}}\n**Donators**:\n{{donators}}\n**Translators**:\n{{translators}}",
-    "MADE": "Aeternum is a New World Discord bot developed by glazk0#7861 & Marco.#2455"
+    "COUNTS_TITLE": "Statistiche",
+    "COUNTS_CONTENT": "Server: {{servers}}\nUtenti: {{users}}",
+    "VERSIONS_TITLE": "Attualmente in uso",
+    "ONLINE_TITLE": "Tempo di attività",
+    "ONLINE_CONTENT": "Online per {{time}}",
+    "CREDITS_TITLE": "Ringraziamenti e crediti",
+    "CREDITS_CONTENT": "**Contributori**:\n{{contributors}}\n**Donatori**:\n{{donators}}\n**Traduttori**:\n{{translators}}",
+    "MADE": "Aeternum è un Bot di Discord per New World sviluppato da glazk0#7861 & Marco.#2455"
 }

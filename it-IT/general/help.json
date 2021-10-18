@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "Displays commands list or specific command help of Aeternum.",
+    "DESCRIPTION": "Mostra la lisa dei comandi o un aiuto specifico per un comando di Aeternum.",
     "USAGE": "{{prefix}}help (command)",
     "EXAMPLES": "{{prefix}}help\n{{prefix}}help ping",
-    "NOT_FOUND": "`{{search}}` is not a valid command.",
-    "FIELD_DESCRIPTION": "Description",
-    "FIELD_USAGE": "Usage",
-    "FIELD_EXAMPLES": "Examples",
+    "NOT_FOUND": "`{{search}}` non è un comando valido.",
+    "FIELD_DESCRIPTION": "Descrizione",
+    "FIELD_USAGE": "Uso",
+    "FIELD_EXAMPLES": "Esempi",
     "FIELD_ALIASES": "Alias",
-    "FIELD_PERMISSIONS": "Permissions",
-    "NO_ALIAS": "No alias",
-    "CMD_TITLE": "Informations about command: {{prefix}}{{cmd}}",
-    "INFO": "To get help on a specific command type `{{prefix}}help <command>`",
-    "TITLE": "{{name}} | Commands",
-    "NO_REQUIRED_PERMISSION": "No specific permission is required to execute this command."
+    "FIELD_PERMISSIONS": "Permessi",
+    "NO_ALIAS": "Nessun alias",
+    "CMD_TITLE": "Informazioni sul comando: {{prefix}}{{cmd}}",
+    "INFO": "Per ottenere aiuto su un tipo di comando specifico `{{prefix}}help <command>`",
+    "TITLE": "{{name}} | Comandi",
+    "NO_REQUIRED_PERMISSION": "Nessun è necessario nessun permesso specifico per eseguire questo comando."
 }

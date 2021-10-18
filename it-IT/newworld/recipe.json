@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "Displays information about the requested recipe.",
+    "DESCRIPTION": "Mostra le informazioni sulla ricetta richiesta.",
     "USAGE": "{{prefix}}recipe <recipe>\n{{prefix}}recipe <recipe> <number>",
     "EXAMPLES": "{{prefix}}recipe Axe of the abyss\n{{prefix}}recipe Axe of the abyss 10",
-    "NOT_FOUND": "I did not find this recipe. You should try with another one",
-    "NO_ARGS": "You should enter a recipe to search.",
-    "CATEGORY_TITLE": "Category",
-    "RARITY_TITLE": "Rarity",
-    "TRADESKILL_TITLE": "Tradeskill",
-    "STATIONS_TITLE": "Stations",
-    "EXPERIENCE_TITLE": "Experience",
-    "TERRITORY_STANDING_TITLE": "Territory Standing",
-    "CRAFTING_TAXT_TITLE": "Crafting Tax",
-    "OUTPUT_ITEM_TITLE": "Output Item",
-    "INGREDIENTS_TITLE": "Ingredients"
+    "NOT_FOUND": "Non ho trovato questa ricetta. Dovresti provare con un'altra.",
+    "NO_ARGS": "Dovresti inserire una ricetta da cercare.",
+    "CATEGORY_TITLE": "Categoria",
+    "RARITY_TITLE": "Rarità",
+    "TRADESKILL_TITLE": "Competenza",
+    "STATIONS_TITLE": "Postazioni",
+    "EXPERIENCE_TITLE": "Esperienza",
+    "TERRITORY_STANDING_TITLE": "Reputazione del Territorio",
+    "CRAFTING_TAXT_TITLE": "Tassa di crafting",
+    "OUTPUT_ITEM_TITLE": "Oggetto ricevuto",
+    "INGREDIENTS_TITLE": "Ingredienti"
 }
