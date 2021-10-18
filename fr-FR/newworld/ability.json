@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Displays information about the requested ability.",
-    "USAGE": "{{prefix}}ability <ability>",
+    "DESCRIPTION": "Affiche des informations sur la compétence demandée.",
+    "USAGE": "{{prefix}}ability <compétence>",
     "EXAMPLES": "{{prefix}}ability Leaping Strike",
-    "NOT_FOUND": "I did not find this ability. You should try with another one.",
-    "NO_ARGS": "You should enter an ability to search.",
-    "WEAPON_TITLE": "Weapon",
-    "SKILL_TREE_TITLE": "Skill Tree",
-    "COOLDOWN_TITLE": "Cooldown"
+    "NOT_FOUND": "Je n'ai pas trouvé cette compétence. Vous devriez essayer avec une autre.",
+    "NO_ARGS": "Vous devriez entrer une compétence.",
+    "WEAPON_TITLE": "Arme",
+    "SKILL_TREE_TITLE": "Arbre de compétences",
+    "COOLDOWN_TITLE": "Rechargement"
 }
