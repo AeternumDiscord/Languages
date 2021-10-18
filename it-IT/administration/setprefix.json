@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Allows you to change the current Aeternum prefix configuration.",
+    "DESCRIPTION": "Consente di modificare l'attuale configurazione del prefisso Aeternum.",
     "USAGE": "{{prefix}}setprefix <prefix>",
     "EXAMPLES": "{{prefix}}setprefix !",
-    "MISSING_PREFIX": "Please enter a valid prefix.",
-    "TOO_LONG": "The prefix shouldn't exceed 5 characters.",
-    "SUCCESS": "The Aeternum prefix has been set to `{{prefix}}`"
+    "MISSING_PREFIX": "Perfavore inserisci un prefisso valido.",
+    "TOO_LONG": "Il prefisso non deve superare i 5 caratteri.",
+    "SUCCESS": "Il prefisso di Aeternum è stato impostato su `{{prefix}}`"
 }

@@ -3,7 +3,7 @@
     "USAGE": "{{prefix}}info",
     "EXAMPLES": "{{prefix}}info",
     "COUNTS_TITLE": "Statistiche",
-    "COUNTS_CONTENT": "Servers: {{servers}}\nUtenti: {{users}}",
+    "COUNTS_CONTENT": "Server: {{servers}}\nUtenti: {{users}}",
     "VERSIONS_TITLE": "Attualmente in uso",
     "ONLINE_TITLE": "Tempo di attività",
     "ONLINE_CONTENT": "Online per {{time}}",
