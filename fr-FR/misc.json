@@ -4,7 +4,7 @@
     "COMMAND_DISABLED": "Cette commande est actuellement désactivée.",
     "CANCEL": "L'opération a été annulée.",
     "TIMES_UP": "Le temps est écoulé. Merci de renvoyer la commande.",
-    "INVALID_YES_NO": "Vous devez envoyer \"yes\" ou \"no\".",
+    "INVALID_YES_NO": "Vous devez envoyer \"oui\" ou \"non\".",
     "INVALID_NAME": "Merci de spécifier un nom valide.",
     "INVALID_DESCRIPTION": "Merci de spécifier une description valide.",
     "INVALID_FACTION": "Merci de spécifier une faction valide.",
