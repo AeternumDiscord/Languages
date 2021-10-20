@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt Informationen über den angegebenen Vorteil.",
-    "USAGE": "{{prefix}}vorteil <Bezeichnung>",
-    "EXAMPLES": "{{prefix}}vorteil Leerer Edelsteinsockel",
+    "USAGE": "{{prefix}}perk <Bezeichnung>",
+    "EXAMPLES": "{{prefix}}perk Leerer Edelsteinsockel",
     "NOT_FOUND": "Ich kann den von dir angegebene Vorteil nicht finden, bitte prüfe die Schreibweise oder versuche einen anderen!",
     "NO_ARGS": "Bitte gib den Vorteil an, über den du Informationen erhalten möchtest.",
     "CATEGORY_TITLE": "Kategorie",
