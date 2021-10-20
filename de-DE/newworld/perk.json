@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Displays information about the requested perk.",
-    "USAGE": "{{prefix}}perk <perk>",
-    "EXAMPLES": "{{prefix}}perk Empty Gem Socket",
-    "NOT_FOUND": "I did not find this perk. You should try with another one.",
-    "NO_ARGS": "You should enter a perk to search.",
-    "CATEGORY_TITLE": "Category",
-    "RARITY_TITLE": "Rarity",
-    "TIER_TITLE": "Tier",
-    "WATER_TYPE_TITLE": "Water Type",
-    "FISH_SIZE_CHANCE_TITLE": "Fish Size Chance",
-    "ATTRIBUTES_TITLE": "Attributes",
-    "SCALES_TITLE": "Scales",
-    "EQUIPPABLE_ON_TITLE": "Equippable on"
+    "DESCRIPTION": "Zeigt Informationen über den angegebenen Vorteil.",
+    "USAGE": "{{prefix}}vorteil <Bezeichnung>",
+    "EXAMPLES": "{{prefix}}vorteil Leerer Edelsteinsockel",
+    "NOT_FOUND": "Ich kann den von dir angegebene Vorteil nicht finden, bitte prüfe die Schreibweise oder versuche einen anderen!",
+    "NO_ARGS": "Bitte gib den Vorteil an, über den du Informationen erhalten möchtest.",
+    "CATEGORY_TITLE": "Kategorie",
+    "RARITY_TITLE": "Seltenheit",
+    "TIER_TITLE": "Stufe",
+    "WATER_TYPE_TITLE": "Wasser-Typ",
+    "FISH_SIZE_CHANCE_TITLE": "Chance auf Fisch-Größe",
+    "ATTRIBUTES_TITLE": "Attribute",
+    "SCALES_TITLE": "Skaliert mit",
+    "EQUIPPABLE_ON_TITLE": "Möglich auf"
 }
