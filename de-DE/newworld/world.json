@@ -1,8 +1,8 @@
 {
     "DESCRIPTION": "Zeigt Informationen über die angegebene Welt.",
-    "USAGE": "{{prefix}}welt <Bezeichnung>",
-    "EXAMPLES": "{{prefix}}welt Barsoom",
-    "NOT_FOUND": "Ich finde die von dir angegebene Welt nicht, bitte prüfe die Schreiweise oder versuche eine andere!",
+    "USAGE": "{{prefix}}world <Bezeichnung>",
+    "EXAMPLES": "{{prefix}}world Barsoom",
+    "NOT_FOUND": "Ich kann die von dir angegebene Welt nicht finden, bitte prüfe die Schreiweise oder versuche eine andere!",
     "NO_ARGS": "Bitte gib die Welt an, über die du Informationen erhalten möchtest.",
     "WORLD_NAME_TITLE": "Name der Welt",
     "WORLD_SET": "Welt Set (Cluster)",
