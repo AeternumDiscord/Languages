@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt Informationen über das angegebene Rezept.",
-    "USAGE": "{{prefix}}rezept <Bezeichnung>\n{{prefix}}rezept <Bezeichnung> <Anzahl>",
-    "EXAMPLES": "{{prefix}}rezept Honigschinken\n{{prefix}}rezept Honigschinken 10",
+    "USAGE": "{{prefix}}recipe <Bezeichnung>\n{{prefix}}rezept <Bezeichnung> <Anzahl>",
+    "EXAMPLES": "{{prefix}}recipe Honigschinken\n{{prefix}}rezept Honigschinken 10",
     "NOT_FOUND": "Ich kann das von dir angegebene Rezept nicht finden, bitte prüfe die Schreiweise oder versuche ein anderes!",
     "NO_ARGS": "Bitte gib ein Zezept an, über das du Informationen erhalten möchtest.",
     "CATEGORY_TITLE": "Kategorie",
