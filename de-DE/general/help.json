@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "Displays commands list or specific command help of Aeternum.",
-    "USAGE": "{{prefix}}help (command)",
+    "DESCRIPTION": "Zeigt eine Befehlsliste oder spezifische Informationen zu einem Befehl des Aeternum BOT an.",
+    "USAGE": "{{prefix}}help (Befehlsbezeichnung)",
     "EXAMPLES": "{{prefix}}help\n{{prefix}}help ping",
-    "NOT_FOUND": "`{{search}}` is not a valid command.",
-    "FIELD_DESCRIPTION": "Description",
-    "FIELD_USAGE": "Usage",
-    "FIELD_EXAMPLES": "Examples",
+    "NOT_FOUND": "`{{search}}` ist kein implementierter Befehl.",
+    "FIELD_DESCRIPTION": "Erklärung",
+    "FIELD_USAGE": "Benutzung",
+    "FIELD_EXAMPLES": "Beispiele",
     "FIELD_ALIASES": "Alias",
-    "FIELD_PERMISSIONS": "Permissions",
-    "NO_ALIAS": "No alias",
-    "CMD_TITLE": "Informations about command: {{prefix}}{{cmd}}",
-    "INFO": "To get help on a specific command type `{{prefix}}help <command>`",
-    "TITLE": "{{name}} | Commands",
-    "NO_REQUIRED_PERMISSION": "No specific permission is required to execute this command."
+    "FIELD_PERMISSIONS": "Berechtigungen",
+    "NO_ALIAS": "Kein Alias",
+    "CMD_TITLE": "Informationen zu dem Befehl: {{prefix}}{{cmd}}",
+    "INFO": "Um Hilfe zu einem bestimmten Befehl zu bekommen Schreibe `{{prefix}}help <Befehlsbezeichnung>`",
+    "TITLE": "{{name}} | Befehle",
+    "NO_REQUIRED_PERMISSION": "Um diesen Befehl auszuführen, wird keine bestimmte Berechtigung benötigt."
 }
