@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Allows you to setup a special category with the server name you want.",
-    "USAGE": "{{prefix}}setworld <world name|off>",
+    "DESCRIPTION": "Befehl um einen bestimmten Server in der Statistik anzuzeigen.",
+    "USAGE": "{{prefix}}setworld <Weltenbezeichnung|off>",
     "EXAMPLES": "{{prefix}}setworld Inferni\n{{prefix}}setworld off"
 }
