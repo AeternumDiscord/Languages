@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Anzeigen von Aeternum Stati & Informationen",
+    "DESCRIPTION": "Anzeigen von Aeternum Statistik & Informationen",
     "USAGE": "{{prefix}}info",
     "EXAMPLES": "{{prefix}}info",
     "COUNTS_TITLE": "Statistiken",
