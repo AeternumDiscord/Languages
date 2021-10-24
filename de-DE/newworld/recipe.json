@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt Informationen über das angegebene Rezept.",
     "USAGE": "{{prefix}}recipe <Bezeichnung in Englisch>\n{{prefix}}rezept <Bezeichnung> <Anzahl>",
-    "EXAMPLES": "{{prefix}}recipe Honigschinken\n{{prefix}}rezept Honigschinken 10",
+    "EXAMPLES": "{{prefix}}recipe Axe of the abyss\n{{prefix}}rezept Axe of the abyss 10",
     "NOT_FOUND": "Ich kann das von dir angegebene Rezept nicht finden, bitte prüfe die Schreiweise oder versuche ein anderes!",
     "NO_ARGS": "Bitte gib die englische Bezeichnung des Rezeptes an, über das du Informationen erhalten möchtest.",
     "CATEGORY_TITLE": "Kategorie",
