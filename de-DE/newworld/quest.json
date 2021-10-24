@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Zeigt Informationen über die angegebene Quest.",
     "USAGE": "{{prefix}}quest <Bezeichnung in Englisch>",
-    "EXAMPLES": "{{prefix}}quest Die Schwäche des Egos",
+    "EXAMPLES": "{{prefix}}quest Shattered Mountain",
     "NOT_FOUND": "Ich kann die von dir angegebene Quest nicht finden, bitte prüfe die Schreiweise oder versuche eine andere!",
     "NO_ARGS": "Bitte gib die englische Bezeichnung der Quest an, über die du Informationen erhalten möchtest.",
     "NO_TERRITORY": "Das Gebiets-Quest-System ist im Aufbau, versuche es gerne später erneut.",
@@ -16,7 +16,7 @@
     "UNLOCKS_TITLE": "Freischaltung für",
     "ARC_TITLE": "Quest Arc (!TRANSLATE!)",
     "SUGGESTED_LEVEL_TITLE": "Empfohlenes Level",
-    "QUEST_ZONE_TITLE": "Quest Zone",
+    "QUEST_ZONE_TITLE": "Quest-Zone",
     "REPEATABLE_TITLE": "Wiederholbar",
     "PVP_TITLE": "PvP"
 }
