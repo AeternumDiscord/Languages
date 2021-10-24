@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Befehl um einen bestimmten Server in der Statistik anzuzeigen.",
+    "DESCRIPTION": "Befehl, um einen bestimmten Server in der Statistik anzuzeigen.",
     "USAGE": "{{prefix}}setworld <Weltenbezeichnung|off>",
     "EXAMPLES": "{{prefix}}setworld Inferni\n{{prefix}}setworld off"
 }
