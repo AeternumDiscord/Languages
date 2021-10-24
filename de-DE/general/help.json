@@ -12,5 +12,5 @@
     "CMD_TITLE": "Informationen zu dem Befehl: {{prefix}}{{cmd}}",
     "INFO": "Um Hilfe zu einem bestimmten Befehl zu bekommen Schreibe `{{prefix}}help <Befehlsbezeichnung>`",
     "TITLE": "{{name}} | Befehle",
-    "NO_REQUIRED_PERMISSION": "Um diesen Befehl auszuführen wird keine bestimmte Berechtigung benötigt."
+    "NO_REQUIRED_PERMISSION": "Um diesen Befehl auszuführen, wird keine bestimmte Berechtigung benötigt."
 }
