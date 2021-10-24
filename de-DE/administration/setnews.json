@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Befehl um Informationen und neuigkeiten über New World in einem Bestimmten Discord Kanal zu empfangen.",
+    "DESCRIPTION": "Befehl, um Informationen und Neuigkeiten über New World in einem definierten Discord Kanal zu empfangen.",
     "USAGE": "{{prefix}}setnews <edit|off>",
     "EXAMPLES": "{{prefix}}setnews edit",
     "MISSING_STATUS": "Es muss zusätzlich `edit` oder `off` mit angegeben werden.",
     "CANCEL": "Der Befehl wurde abgebrochen.",
-    "FORM_1": "An welchen Kanal sollen die Neuigkeiten gesendet werden?\n\n:arrow_right_hook: *Bitte gebe den gewünschten Kanal ein oder \"cancel\" um den Befehl abzubrechen.*",
-    "FORM_2": "Möchtest du, das auch die Antworten auf Tweets angezeigt werden?\n\n :arrow_right_hook: *Bitte gebe die Antwort \"yes\" (Ja) oder \"no\" (Nein) ein (Normalerweise ist die Antwort no) oder Tippe \"cancel\" um diesen Befehl abzubrechen.*",
-    "SUCCESS": "Das Neuigkeiten System wurde aktiviert.\n\n:arrow_right_hook: *Bitte gebe `{{prefix}}configuration` ein, um die neue Server Konfiguration zu überprüfen!*",
-    "DISABLED": "Das Neuigkeiten System wurde soeben deaktiviert!\n\n:arrow_right_hook: *Bitte gebe `{{prefix}}configuration` ein, um die neue Server Konfiguration zu überprüfen!.*"
+    "FORM_1": "An welchen Kanal sollen die Neuigkeiten gesendet werden?\n\n:arrow_right_hook: *Bitte gib den gewünschten Kanal ein oder \"cancel\" um den Befehl abzubrechen.*",
+    "FORM_2": "Möchtest du, das auch die Antworten auf Tweets angezeigt werden?\n\n :arrow_right_hook: *Bitte gib die Antwort \"yes\" (Ja) oder \"no\" (Nein) ein (Normalerweise ist die Antwort no) oder Tippe \"cancel\" um diesen Befehl abzubrechen.*",
+    "SUCCESS": "Das Neuigkeiten-System wurde aktiviert.\n\n:arrow_right_hook: *Bitte gib `{{prefix}}configuration` ein, um die neue Server Konfiguration zu überprüfen!*",
+    "DISABLED": "Das Neuigkeiten-System wurde soeben deaktiviert!\n\n:arrow_right_hook: *Bitte gib `{{prefix}}configuration` ein, um die neue Server Konfiguration zu überprüfen!.*"
 }
