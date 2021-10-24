@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "Befehl um die Sprache des Aeternum BOT auf diesem Server zu verändern.",
+    "DESCRIPTION": "Befehl, um die Sprache des Aeternum BOT auf diesem Server zu verändern.",
     "USAGE": "{{prefix}}setlang <Sprache>",
     "EXAMPLES": "{{prefix}}setlang en-US\n{{prefix}}setlang es-ES\n{{prefix}}setlang de-DE",
-    "MISSING_LANG": "Bitte gebe eine implementierte Sprache aus dieser Liste ein: {{list}}",
+    "MISSING_LANG": "Bitte gib eine der implementierte Sprachen aus dieser Liste ein: {{list}}",
     "SUCCESS": ":flag_de: Die Sprache dieses Servers ist nun Deutsch!"
 }
