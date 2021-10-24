@@ -1,9 +1,9 @@
 {
     "DESCRIPTION": "Zeigt Informationen über die angegebene Quest.",
-    "USAGE": "{{prefix}}quest <Bezeichnung>",
+    "USAGE": "{{prefix}}quest <Bezeichnung in Englisch>",
     "EXAMPLES": "{{prefix}}quest Die Schwäche des Egos",
     "NOT_FOUND": "Ich kann die von dir angegebene Quest nicht finden, bitte prüfe die Schreiweise oder versuche eine andere!",
-    "NO_ARGS": "Bitte gib die Quest an, über die du Informationen erhalten möchtest.",
+    "NO_ARGS": "Bitte gib die englische Bezeichnung der Quest an, über die du Informationen erhalten möchtest.",
     "NO_TERRITORY": "Das Gebiets-Quest-System ist im Aufbau, versuche es gerne später erneut.",
     "QUEST_GIVER_TITLE": "NPC - Questgeber",
     "TURN_IN_TITLE": "NPC - Quest-Ziel",
