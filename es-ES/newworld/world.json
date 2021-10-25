@@ -1,0 +1,5 @@
+{
+    "DESCRIPTION": "Allows you to search the information of the server name.",
+    "USAGE": "{{prefix}}world <world name>",
+    "EXAMPLES": "{{prefix}}world El Dorado"
+}
