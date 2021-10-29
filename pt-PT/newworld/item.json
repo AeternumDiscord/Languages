@@ -35,5 +35,7 @@
     "WEIGHT_TITLE": "Weight",
     "DURABILITY_TITLE": "Durability",
     "BINDED_ON_EQUIP_TITLE": "Binded on equip",
-    "BINDED_ON_PICKUP_TITLE": "Binded on pickup"
+    "BINDED_ON_PICKUP_TITLE": "Binded on pickup",
+    "GATHERED_FROM_TITLE": "Gathered From",
+    "USED_IN_RECIPES_TITLE": "Used in Recipes"
 }
