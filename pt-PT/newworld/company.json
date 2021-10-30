@@ -5,7 +5,7 @@
     "CREATE": "Criar",
     "DELETE": "Deletar",
     "LIST": "Listar",
-    "MISSING_STATUS": "Você precisa escolher uma ação entre `create`, `delete` e `list`.",
+    "MISSING_STATUS": "Você precisa escolher uma ação entre `Criar`, `Deletar` e `Listar`.",
     "ALREADY_OWNER": "Você é o proprietário da companhia **{{company}}**.",
     "FORM_1": "Qual o nome da sua companhia??\n\n:arrow_right_hook: *Responda digitando o nome da companhia ou escreva \"cancelar\" para cancelar a operação.*",
     "FORM_2": "Qual é a descrição para a companhia **{{company}}**?\n\n:arrow_right_hook: *Responda escrevendo uma descrição ou digite \"cancelar\" para cancelar a operação.*",
