@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Displays information about the requested perk.",
+    "DESCRIPTION": "Exibe as informações sobre uma vantagem.",
     "USAGE": "{{prefix}}perk <perk>",
     "EXAMPLES": "{{prefix}}perk Empty Gem Socket",
-    "NOT_FOUND": "I did not find this perk. You should try with another one.",
-    "NO_ARGS": "You should enter a perk to search.",
-    "CATEGORY_TITLE": "Category",
-    "RARITY_TITLE": "Rarity",
+    "NOT_FOUND": "Eu não encontrei esta vantagem. Você pode tentar buscar por outra",
+    "NO_ARGS": "Você precisa digitar uma vantagem para buscar.",
+    "CATEGORY_TITLE": "Categoria",
+    "RARITY_TITLE": "Raridade",
     "TIER_TITLE": "Tier",
-    "WATER_TYPE_TITLE": "Water Type",
-    "FISH_SIZE_CHANCE_TITLE": "Fish Size Chance",
-    "ATTRIBUTES_TITLE": "Attributes",
-    "SCALES_TITLE": "Scales",
-    "EQUIPPABLE_ON_TITLE": "Equippable on"
+    "WATER_TYPE_TITLE": "Tipo de água",
+    "FISH_SIZE_CHANCE_TITLE": "Chance do tamanho de peixe",
+    "ATTRIBUTES_TITLE": "Atributos",
+    "SCALES_TITLE": "Escalas",
+    "EQUIPPABLE_ON_TITLE": "Equipável em"
 }
