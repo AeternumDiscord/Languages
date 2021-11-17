@@ -3,5 +3,5 @@
     "USAGE": "{{prefix}}setlang <language>",
     "EXAMPLES": "{{prefix}}setlang en-US\n{{prefix}}setlang es-ES",
     "MISSING_LANG": "Perfavore inserisci una lingua valida tra le seguenti: {{list}}",
-    "SUCCESS": ":flag_it: La lingua di questo server ora è l'italiano!"
+    "SUCCESS": ":flag_it: La lingua di questo server è ora l'italiano!"
 }
