@@ -1,0 +1,16 @@
+{
+    "DESCRIPTION": "Zeigt Informationen über das angegebene Rezept.",
+    "USAGE": "{{prefix}}recipe <Bezeichnung in Englisch>\n{{prefix}}rezept <Bezeichnung> <Anzahl>",
+    "EXAMPLES": "{{prefix}}recipe Axe of the abyss\n{{prefix}}rezept Axe of the abyss 10",
+    "NOT_FOUND": "Ich kann das von dir angegebene Rezept nicht finden, bitte prüfe die Schreibweise oder versuche ein anderes!",
+    "NO_ARGS": "Bitte gib die englische Bezeichnung des Rezeptes an, über das du Informationen erhalten möchtest.",
+    "CATEGORY_TITLE": "Kategorie",
+    "RARITY_TITLE": "Seltenheit",
+    "TRADESKILL_TITLE": "Beruf",
+    "STATIONS_TITLE": "Station",
+    "EXPERIENCE_TITLE": "Erfahrung",
+    "TERRITORY_STANDING_TITLE": "Gebiets-Ruf",
+    "CRAFTING_TAXT_TITLE": "Herstellungs-Steuer",
+    "OUTPUT_ITEM_TITLE": "Hergestellte Ware",
+    "INGREDIENTS_TITLE": "Benötigte Zutaten"
+}

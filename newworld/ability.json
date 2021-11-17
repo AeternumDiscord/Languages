@@ -1,0 +1,10 @@
+{
+    "DESCRIPTION": "Zeigt Informationen über die angegebene Fähigkeit.",
+    "USAGE": "{{prefix}}ability <Bezeichnung in Englisch>",
+    "EXAMPLES": "{{prefix}}ability Leaping Strike",
+    "NOT_FOUND": "Ich kann die von dir angegebene Fähigkeit nicht finden, bitte prüfe die Schreibweise oder versuche eine andere!",
+    "NO_ARGS": "Bitte gib die englische Bezeichnung der Fähigkeit an, über die du Informationen erhalten möchtest.",
+    "WEAPON_TITLE": "Waffe",
+    "SKILL_TREE_TITLE": "Fähigkeits-Baum",
+    "COOLDOWN_TITLE": "Abklingzeit"
+}
