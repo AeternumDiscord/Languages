@@ -37,5 +37,6 @@
     "BINDED_ON_EQUIP_TITLE": "Lié si équipé",
     "BINDED_ON_PICKUP_TITLE": "Lié si ramassé",
     "GATHERED_FROM_TITLE": "Récolté à partir de",
-    "USED_IN_RECIPES_TITLE": "Utilisé dans les recettes"
+    "USED_IN_RECIPES_TITLE": "Utilisé dans les recettes",
+    "ARMOR_SET_TITLE": "Armor Set"
 }
