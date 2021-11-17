@@ -1,0 +1,11 @@
+{
+    "DESCRIPTION": "Allows you to setup a special category with a server, region or global statistics displayed.",
+    "USAGE": "{{prefix}}setworld",
+    "EXAMPLES": "{{prefix}}setworld Inferni\n{{prefix}}setworld off",
+    "NOT_FOUND_WORLD": "I did not find this world. You should try with another one.",
+    "NOT_FOUND_REGION": "I did not find this region. You should try with another one.",
+    "ALREADY_DISABLE": "The system is already disabled.",
+    "DISABLE": "The system status system has just been disabled!\n\n:arrow_right_hook: *Answer by sending `{{prefix}}configuration` to see the updated server configuration.*",
+    "SUCCESS": "The setup has been completed and will now automatically update the **{{object}}** stats every 5 min.\n\n:arrow_right_hook: *Answer by sending `{{prefix}}configuration` to see the updated server configuration.*",
+    "UPDATE": "Alright, **{{object}}** is now tracked.\n\n:arrow_right_hook: *Answer by sending `{{prefix}}configuration` to see the updated server configuration.*"
+}
