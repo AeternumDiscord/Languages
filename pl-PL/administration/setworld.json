@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Allows you to setup a special category with a server, region or global statistics displayed.",
+    "DESCRIPTION": "Umożliwia ustawienie specjalnej kategorii z wyświetlanymi statystykami serwera, regionu lub globalnymi statystykami.",
     "USAGE": "{{prefix}}setworld",
     "EXAMPLES": "{{prefix}}setworld Inferni\n{{prefix}}setworld off",
     "NOT_FOUND_WORLD": "I did not find this world. You should try with another one.",
