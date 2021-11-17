@@ -1,11 +1,11 @@
 {
     "DESCRIPTION": "Umożliwia ustawienie specjalnej kategorii z wyświetlanymi statystykami serwera, regionu lub globalnymi statystykami.",
     "USAGE": "{{prefix}}setworld",
-    "EXAMPLES": "{{prefix}}setworld Inferni\n{{prefix}}setworld off",
-    "NOT_FOUND_WORLD": "I did not find this world. You should try with another one.",
-    "NOT_FOUND_REGION": "I did not find this region. You should try with another one.",
-    "ALREADY_DISABLE": "The system is already disabled.",
-    "DISABLE": "The system status system has just been disabled!\n\n:arrow_right_hook: *Answer by sending `{{prefix}}configuration` to see the updated server configuration.*",
-    "SUCCESS": "The setup has been completed and will now automatically update the **{{object}}** stats every 5 min.\n\n:arrow_right_hook: *Answer by sending `{{prefix}}configuration` to see the updated server configuration.*",
-    "UPDATE": "Alright, **{{object}}** is now tracked.\n\n:arrow_right_hook: *Answer by sending `{{prefix}}configuration` to see the updated server configuration.*"
+    "EXAMPLES": "{{prefix}}setworld Zanara\n{{prefix}}setworld off",
+    "NOT_FOUND_WORLD": "Nie znalazłem tego świata. Powinieneś spróbować z innym.",
+    "NOT_FOUND_REGION": "Nie znalazłem tego regionu. Powinieneś spróbować z innym.",
+    "ALREADY_DISABLE": "System jest już wyłączony.",
+    "DISABLE": "System statusu systemu został właśnie wyłączony!\n\n:arrow_right_hook: *Odpowiedz wysyłając `{{prefix}}configuration` aby zobaczyć zaktualizowaną konfigurację serwera.*",
+    "SUCCESS": "Konfiguracja została zakończona i teraz automatycznie zaktualizuje **{{object}}** statystyki co 5 minut.\n\n:arrow_right_hook: *Odpowiedz wysyłając `{{prefix}}configuration` aby zobaczyć zaktualizowaną konfigurację serwera.*",
+    "UPDATE": "W porządku, **{{object}}** jest teraz śledzony.\n\n:arrow_right_hook: *Odpowiedz wysyłając `{{prefix}}configuration` aby zobaczyć zaktualizowaną konfigurację serwera.*"
 }
