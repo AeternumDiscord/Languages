@@ -19,4 +19,4 @@ Once the pull request is created, you don't have to do anything else.
 
 # Credits
 
-Thanks to 🇹🇷 [Excoupe](https://github.com/excoupe), 🇪🇸 [HOLTHAIN](https://github.com/HOLTHAIN), 🇮🇹 [FraWolf](https://github.com//FraWolf), 🇫🇷 [Unyxos](https://github.com/Unyxos), 🇩🇪 [Tango-007](https://github.com/Tango-007), 🇵🇹 [GinKun](https://github.com/pombimsjb) for their contribution.
+Thanks to 🇹🇷 [Excoupe](https://github.com/excoupe), 🇪🇸 [HOLTHAIN](https://github.com/HOLTHAIN), 🇮🇹 [FraWolf](https://github.com//FraWolf), 🇫🇷 [Unyxos](https://github.com/Unyxos), 🇩🇪 [Tango-007](https://github.com/Tango-007), 🇵🇹 [GinKun](https://github.com/pombimsjb), 🇵🇱 [szydab1](https://github.com/UP814818) for their contribution.
