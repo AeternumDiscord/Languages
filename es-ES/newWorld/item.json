@@ -3,7 +3,7 @@
     "USAGE": "{{prefix}}item <item>",
     "EXAMPLES": "{{prefix}}item Worn Longsword",
     "NOT_FOUND": "Este objeto no está aún en nuestra base de datos o no es un objeto. Prueba con otro nombre.",
-    "NO_ARGS": "Debes introducir el objeto a buscar",
+    "NO_ARGS": "Debes introducir el objeto a buscar.",
     "CATEGORY_TITLE": "Category",
     "TYPE_TITLE": "Type",
     "RARITY_TITLE": "Rareza",
@@ -18,6 +18,7 @@
     "FISH_RARITY_CHANCE_TITLE": "Probabilidad de rareza",
     "MAX_CAST_DISTANCE_TITLE": "Distancia de casteo máxima",
     "TENSION_RECOVERED_TITLE": "Tensión recuperada por segundo",
+    "OUTFIT_SET_TITLE": "Outfit Set",
     "ARMOR_RATING_ELEMENTAL_TITLE": "Armadura elemental",
     "ARMOR_RATING_PHYSICAL_TITLE": "Armadura física",
     "AVAILABLES_PERKS_TITLE": "Perks disponibles",
@@ -34,5 +35,7 @@
     "WEIGHT_TITLE": "Peso",
     "DURABILITY_TITLE": "Durabilidad",
     "BINDED_ON_EQUIP_TITLE": "Ligado al equipar",
-    "BINDED_ON_PICKUP_TITLE": "Ligado al recoger"
+    "BINDED_ON_PICKUP_TITLE": "Ligado al recoger",
+    "GATHERED_FROM_TITLE": "Gathered From",
+    "USED_IN_RECIPES_TITLE": "Used in Recipes"
 }

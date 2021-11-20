@@ -3,7 +3,7 @@
     "USAGE": "{{prefix}}perk <perk>",
     "EXAMPLES": "{{prefix}}perk Empty Gem Socket",
     "NOT_FOUND": "Esta perk no está aún en nuestra base de datos o no es un perk. Prueba con otra perk.",
-    "NO_ARGS": "Debes introducir la perk a buscar",
+    "NO_ARGS": "Debes introducir la perk a buscar.",
     "CATEGORY_TITLE": "Categoría",
     "RARITY_TITLE": "Rareza",
     "TIER_TITLE": "Tier",
