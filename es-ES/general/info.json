@@ -8,6 +8,6 @@
     "ONLINE_TITLE": "Uptime",
     "ONLINE_CONTENT": "Online por {{time}}",
     "CREDITS_TITLE": "Agradecimientos & creditos",
-    "CREDITS_CONTENT": "**Contributors**:\n{{contributors}}\n**Donators**:\n{{donators}}\n**Translators**:\n{{translators}}",
+    "CREDITS_CONTENT": "**Colaboradores**:\n{{contributors}}\n**Donantes**:\n{{donators}}\n**Traductores**:\n{{translators}}",
     "MADE": "Aeternum es un bot de Discord de New World creado por glazk0#7861 y Marco.#2455"
 }

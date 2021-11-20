@@ -2,6 +2,6 @@
     "DESCRIPTION": "¡Cambia el idioma en el servidor!",
     "USAGE": "{{prefix}}setlang [idioma]",
     "EXAMPLES": "{{prefix}}setlang english\n{{prefix}}setlang spanish",
-    "MISSING_LANG": "Porfavos, introduce un lenguaje válido entre estos: {{list}}",
-    "SUCCESS": ":flag_es: ¡El idioma de este servidor es Español!"
+    "MISSING_LANG": "Por favor, introduce un lenguaje válido entre estos: {{list}}",
+    "SUCCESS": ":flag_es: ¡El idioma de este servidor ahora es Español!"
 }
