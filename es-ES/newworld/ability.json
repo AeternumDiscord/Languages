@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Te permite buscar información sobre la habilidad especifica.",
-    "USAGE": "{{prefix}}ability <ability>",
+    "USAGE": "{{prefix}}ability <habilidad>",
     "EXAMPLES": "{{prefix}}ability Leaping Strike",
     "NOT_FOUND": "Esta habilidad no está aún en nuestra base de datos o no es una habilidad. Prueba otro nombre.",
     "NO_ARGS": "Tienes que introducir una habilidad a buscar.",

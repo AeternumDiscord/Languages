@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Allows you to search the information of the server name.",
-    "USAGE": "{{prefix}}world <world name>",
+    "DESCRIPTION": "Permite buscar la información del nombre del servidor.",
+    "USAGE": "{{prefix}}world <mundo>",
     "EXAMPLES": "{{prefix}}world El Dorado"
 }
