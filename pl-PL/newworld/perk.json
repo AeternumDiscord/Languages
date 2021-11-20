@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Displays information about the requested perk.",
+    "DESCRIPTION": "Wyświetla informacje o żądanym proficie.",
     "USAGE": "{{prefix}}perk <perk>",
     "EXAMPLES": "{{prefix}}perk Empty Gem Socket",
-    "NOT_FOUND": "I did not find this perk. You should try with another one.",
-    "NO_ARGS": "You should enter a perk to search.",
-    "CATEGORY_TITLE": "Category",
-    "RARITY_TITLE": "Rarity",
-    "TIER_TITLE": "Tier",
-    "WATER_TYPE_TITLE": "Water Type",
-    "FISH_SIZE_CHANCE_TITLE": "Fish Size Chance",
-    "ATTRIBUTES_TITLE": "Attributes",
-    "SCALES_TITLE": "Scales",
-    "EQUIPPABLE_ON_TITLE": "Equippable on"
+    "NOT_FOUND": "Nie znalazłem tego profitu. Powinieneś spróbować z innym.",
+    "NO_ARGS": "Powinieneś wpisać profit do wyszukiwania.",
+    "CATEGORY_TITLE": "Kategoria",
+    "RARITY_TITLE": "Rzadkość",
+    "TIER_TITLE": "Klasa",
+    "WATER_TYPE_TITLE": "Rodzaj wody",
+    "FISH_SIZE_CHANCE_TITLE": "Szansa na wielkość ryby",
+    "ATTRIBUTES_TITLE": "Atrybuty",
+    "SCALES_TITLE": "Waga",
+    "EQUIPPABLE_ON_TITLE": "Możliwość wyposażenia na"
 }

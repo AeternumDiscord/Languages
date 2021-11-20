@@ -1,14 +1,14 @@
 {
-    "DESCRIPTION": "Displays information about the requested world.",
+    "DESCRIPTION": "Wyświetla informacje o żądanym świecie.",
     "USAGE": "{{prefix}}world <world name>",
-    "EXAMPLES": "{{prefix}}world El Dorado",
-    "NOT_FOUND": "I did not find this world. You should try with another one.",
-    "NO_ARGS": "You should enter a world to search.",
-    "WORLD_NAME_TITLE": "World Name",
-    "WORLD_SET": "World Set",
+    "EXAMPLES": "{{prefix}}world Zanara",
+    "NOT_FOUND": "Nie znalazłem tego świata. Powinieneś spróbować z innym światem.",
+    "NO_ARGS": "Powinieneś wpisać nazwę świata, którego chcesz wyszukać.",
+    "WORLD_NAME_TITLE": "Nazwa świata",
+    "WORLD_SET": "Zestaw światowy",
     "REGION_TITLE": "Region",
-    "PLAYER_CAPACITY_TITLE": "Player Capacity",
-    "CONNECTED_PLAYERS_TITLE": "Connected Players",
-    "CURRENT_QUEUE_TITLE": "Current Queue",
-    "QUEUE_TIME_TITLE": "Queue Time"
+    "PLAYER_CAPACITY_TITLE": "Pojemność Serwera",
+    "CONNECTED_PLAYERS_TITLE": "Połączeni gracze",
+    "CURRENT_QUEUE_TITLE": "Bieżąca kolejka",
+    "QUEUE_TIME_TITLE": "Czas kolejki"
 }
