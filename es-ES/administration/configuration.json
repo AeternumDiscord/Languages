@@ -6,6 +6,6 @@
     "NEWS_TITLE": "Noticias",
     "NEWS_CONTENT": "Canal: {{channel}}\nRespuestas: {{replies}}",
     "WORLD_TITLE": "Estadísticas de Mundos",
-    "WORLD_CONTENT": "Mundo: {{world}}\nGlobal: {{global}}\nRegion: {{region}}",
+    "WORLD_CONTENT": "Mundo: {{world}}\nGlobal: {{global}}\nRegión: {{region}}",
     "DISABLED": "Deshabilitado"
 }

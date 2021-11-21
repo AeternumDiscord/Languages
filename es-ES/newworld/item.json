@@ -1,6 +1,6 @@
 {
     "DESCRIPTION": "Muestra información sobre objeto indicado: arma, herramienta, armadura...",
-    "USAGE": "{{prefix}}item <objeto",
+    "USAGE": "{{prefix}}item <objeto>",
     "EXAMPLES": "{{prefix}}item Worn Longsword",
     "NOT_FOUND": "No he encontrado este objeto. Debería probar con otro.",
     "NO_ARGS": "Debes introducir el objeto a buscar.",
