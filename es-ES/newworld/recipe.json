@@ -1,15 +1,15 @@
 {
-    "DESCRIPTION": "Te permite buscar información de la receta indicada.",
-    "USAGE": "{{prefix}}recipe <recipe>\n{{prefix}}recipe <receta> <cantidad>",
+    "DESCRIPTION": "Displays information about the requested recipe.",
+    "USAGE": "{{prefix}}recipe <recipe>\n{{prefix}}recipe <recipe> <number>",
     "EXAMPLES": "{{prefix}}recipe Axe of the abyss\n{{prefix}}recipe Axe of the abyss 10",
-    "NOT_FOUND": "Esta receta no está aún en nuestra base de datos o no es un receta. Prueba con otra receta.",
-    "NO_ARGS": "Debes introducir la receta a buscar.",
-    "CATEGORY_TITLE": "Categoria",
-    "RARITY_TITLE": "Rareza",
-    "TRADESKILL_TITLE": "Habilidad",
-    "STATIONS_TITLE": "Estaciones",
-    "REWARDS_TITLE": "Recompensa",   
-    "CRAFTING_TAXT_TITLE": "Tasa de fabricación",
-    "OUTPUT_ITEM_TITLE": "Objeto recibido",
-    "INGREDIENTS_TITLE": "Ingredientes"
+    "NOT_FOUND": "I did not find this recipe. You should try with another one.",
+    "NO_ARGS": "You should enter a recipe to search.",
+    "CATEGORY_TITLE": "Category",
+    "RARITY_TITLE": "Rarity",
+    "TRADESKILL_TITLE": "Tradeskill",
+    "STATIONS_TITLE": "Stations",
+    "REWARDS_TITLE": "Rewards",
+    "CRAFTING_TAXT_TITLE": "Crafting Tax",
+    "OUTPUT_ITEM_TITLE": "Crafted Item",
+    "INGREDIENTS_TITLE": "Ingredients"
 }

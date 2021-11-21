@@ -1,16 +1,16 @@
 {
-    "DESCRIPTION": "Muestra la lista de comandos o el comando de ayuda especifico de Aeternum.",
+    "DESCRIPTION": "Displays commands list or specific command help of Aeternum.",
     "USAGE": "{{prefix}}help (command)",
     "EXAMPLES": "{{prefix}}help\n{{prefix}}help ping",
-    "NOT_FOUND": "`{{search}}` no es un comando válido.",
-    "FIELD_DESCRIPTION": "Descripción",
-    "FIELD_USAGE": "Uso",
-    "FIELD_EXAMPLES": "Ejemplos",
+    "NOT_FOUND": "`{{search}}` is not a valid command.",
+    "FIELD_DESCRIPTION": "Description",
+    "FIELD_USAGE": "Usage",
+    "FIELD_EXAMPLES": "Examples",
     "FIELD_ALIASES": "Alias",
-    "FIELD_PERMISSIONS": "Permisos",
-    "NO_ALIAS": "Sin alias",
-    "CMD_TITLE": "Informacion sobre el comando: {{prefix}}{{cmd}}", 
-    "INFO": "Para tener ayuda en un comando especifico escribe `{{prefix}}help <comando>`\n\nAeternum está en la verificación oficial de Discord, no puede ser añadido por un momento, anunciaremos cuando haya acabado.",
-    "TITLE": "{{name}} | Comandos",
-    "NO_REQUIRED_PERMISSION": "No hay permiso especifico para ejecutar este comando."
+    "FIELD_PERMISSIONS": "Permissions",
+    "NO_ALIAS": "No alias",
+    "CMD_TITLE": "Informations about command: {{prefix}}{{cmd}}",
+    "INFO": "To get help on a specific command type `{{prefix}}help <command>`",
+    "TITLE": "{{name}} | Commands",
+    "NO_REQUIRED_PERMISSION": "No specific permission is required to execute this command."
 }

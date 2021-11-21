@@ -1,7 +1,7 @@
 {
-    "DESCRIPTION": "¡Cambia el idioma en el servidor!",
-    "USAGE": "{{prefix}}setlang [idioma]",
-    "EXAMPLES": "{{prefix}}setlang english\n{{prefix}}setlang spanish",
-    "MISSING_LANG": "Por favor, introduce un lenguaje válido entre estos: {{list}}",
-    "SUCCESS": ":flag_es: ¡El idioma de este servidor ahora es Español!"
+    "DESCRIPTION": "Changes the Aeternum language on this server.",
+    "USAGE": "{{prefix}}setlang <language>",
+    "EXAMPLES": "{{prefix}}setlang en-US\n{{prefix}}setlang es-ES",
+    "MISSING_LANG": "Please enter a valid language between theses: {{list}}",
+    "SUCCESS": ":flag_gb: The language of this server is now english!"
 }
