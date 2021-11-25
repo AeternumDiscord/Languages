@@ -1,0 +1,13 @@
+{
+    "DESCRIPTION": "Exibe o status e informações sobre o Aeternum",
+    "USAGE": "{{prefix}}info",
+    "EXAMPLES": "{{prefix}}info",
+    "COUNTS_TITLE": "Estatsticas",
+    "COUNTS_CONTENT": "´Servidores: {{servers}}\nUsuários: {{users}}",
+    "VERSIONS_TITLE": "Utilizando",
+    "ONLINE_TITLE": "Tempo Online",
+    "ONLINE_CONTENT": "Online por {{time}}",
+    "CREDITS_TITLE": "Agradecimentos e créditos",
+    "CREDITS_CONTENT": "**Contribuidores**:\n{{contributors}}\n**Doadores**:\n{{donators}}\n**Tradutores**:\n{{translators}}",
+    "MADE": "Aeternum é um Bot para Discord desenvolvido por glazk0#7861 e Marco.#2455"
+}
