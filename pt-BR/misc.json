@@ -6,7 +6,7 @@
     "TIMES_UP": "Tempo acabou. Por favor envie o comando novamente.",
     "INVALID_YES_NO": "Você deve selecionar \"Sim\" ou \"Não\".",
     "INVALID_NAME": "Por favor, especifique um nome válido.",
-    "INVALID_DESCRIPTION": "por favor, especifique uma descrição válida.",
+    "INVALID_DESCRIPTION": "Por favor especifique uma descrição válida.",
     "INVALID_FACTION": "Por favor especifique uma facção válida.",
     "INVALID_LANGUAGE": "Por favor especifique uma linguagem válida.",
     "INVALID_SERVER": "Por favor especifique um servidor válido.",
