@@ -26,7 +26,7 @@
     "MAX_STACK_TITLE": "Maximaler Stapel",
     "FISH_WEIGHT_TITLE": "Gewicht (lb)",
     "FISH_SIZE_TITLE": "Größe (in)",
-    "FISHING_SKILL_AWARDS_TITLE": "Fishing Skill Awards (!Translate!)",
+    "FISHING_SKILL_AWARDS_TITLE": "Fisch-Skill-Belohnung",
     "INGREDIENTS_TYPES_TITLES": "Zutaten Typen",
     "REFINED_AT_TITLE": "Hergestellt an",
     "UNLOCKS_TITLE": "Schaltet frei",
@@ -36,5 +36,5 @@
     "DURABILITY_TITLE": "Haltbarkeit",
     "BINDED_ON_EQUIP_TITLE": "Beim Anlegen Gebunden",
     "BINDED_ON_PICKUP_TITLE": "Beim Aufheben Gebunden",
-    "ARMOR_SET_TITLE": "Armor Set"
+    "ARMOR_SET_TITLE": "Rüstungs-Set"
 }
