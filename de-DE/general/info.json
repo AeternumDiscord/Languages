@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Anzeigen von Aeternum Statistik & Informationen",
+    "DESCRIPTION": "Zeigt Statistiken & Informationen von Aeternum an",
     "USAGE": "{{prefix}}info",
     "EXAMPLES": "{{prefix}}info",
     "COUNTS_TITLE": "Statistiken",
@@ -9,5 +9,5 @@
     "ONLINE_CONTENT": "Online für {{time}}",
     "CREDITS_TITLE": "Bekanntmachungen & Danksagungen",
     "CREDITS_CONTENT": "**Helfer**:\n{{contributors}}\n**Spender**:\n{{donators}}\n**Übersetzer**:\n{{translators}}",
-    "MADE": "Aeternum ist ein Discord BOT für das Spiel New World Entwickelt von glazk0#7861 & Marco.#2455"
+    "MADE": "Aeternum ist ein Discord Bot für das Spiel New World, entwickelt von glazk0#7861 & Marco.#2455"
 }

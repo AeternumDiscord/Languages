@@ -1,8 +1,8 @@
 {
-    "DESCRIPTION": "Befehl, um das Präfix des Aeternum BOT zu verändern.",
+    "DESCRIPTION": "Befehl um das Präfix des Aeternum Bot zu ändern.",
     "USAGE": "{{prefix}}setprefix <präfix>",
     "EXAMPLES": "{{prefix}}setprefix !",
     "MISSING_PREFIX": "Bitte gebe das zu verwendende Präfix an.",
     "TOO_LONG": "Das Präfix sollte nicht länger als 5 Zeichen sein.",
-    "SUCCESS": "Das Präfix des Aeternum BOT ist nun `{{prefix}}`"
+    "SUCCESS": "Das Präfix des Aeternum Bot ist nun `{{prefix}}`"
 }
