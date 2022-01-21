@@ -1,5 +1,5 @@
 {
-    "DESCRIPTION": "Premite que você receba informações e updates sobre o New World diretamente em um canal específico.",
+    "DESCRIPTION": "Permite que você receba informações e updates sobre o New World diretamente em um canal específico.",
     "USAGE": "{{prefix}}setnews <edit|off>",
     "EXAMPLES": "{{prefix}}setnews edit",
     "MISSING_STATUS": "Você precisa escolher uma ação entre `edit` e `off`.",
