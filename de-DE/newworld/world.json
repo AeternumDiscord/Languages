@@ -5,10 +5,10 @@
     "NOT_FOUND": "Ich kann die von dir angegebene Welt nicht finden, bitte prüfe die Schreiweise oder versuche eine andere!",
     "NO_ARGS": "Bitte gib die Welt an, über die du Informationen erhalten möchtest.",
     "WORLD_NAME_TITLE": "Name der Welt",
-    "WORLD_SET": "Welt Set (Cluster)",
+    "WORLD_SET": "Weltenset (Cluster)",
     "REGION_TITLE": "Region",
-    "PLAYER_CAPACITY_TITLE": "Spieler-Kapazität",
+    "PLAYER_CAPACITY_TITLE": "Spielerkapazität",
     "CONNECTED_PLAYERS_TITLE": "Verbundene Spieler",
-    "CURRENT_QUEUE_TITLE": "Aktuelle Queue",
-    "QUEUE_TIME_TITLE": "Aktuelle Queue Zeit"
+    "CURRENT_QUEUE_TITLE": "Aktuelle Warteschlange",
+    "QUEUE_TIME_TITLE": "Aktuelle Wartezeit"
 }

@@ -1,11 +1,11 @@
 {
-    "DESCRIPTION": "Befehl, um festzulegen, ob die Statistik eines Servers, einer Region oder die globalen Statistiken angezeigt werden.",
+    "DESCRIPTION": "Befehl um festzulegen ob die Statistik eines Servers, einer Region oder die globalen Statistiken angezeigt werden.",
     "USAGE": "{{prefix}}setworld",
     "EXAMPLES": "{{prefix}}setworld Inferni\n{{prefix}}setworld off",
     "NOT_FOUND_WORLD": "Ich finde diese Welt nicht! Bitte versuche eine andere.",
     "NOT_FOUND_REGION": "Ich finde diese Region nicht! Bitte versuche eine andere.",
     "ALREADY_DISABLE": "Das System ist bereits deaktiviert!",
-    "DISABLE": "Das System ist nun deaktiviert!\n\n:arrow_right_hook: *Antworte mit `{{prefix}}configuration`, um die aktualisierte Server-Konfiguration zu sehen.*",
-    "SUCCESS": "Das System ist nun konfiguriert, es wird die **{{object}}** Statistiken alle 5 Minuten aktualisieren.\n\n:arrow_right_hook: *Antworte mit `{{prefix}}configuration`, um die aktualisierte Server-Konfiguration zu sehen.*",
-    "UPDATE": "Es wird nun **{{object}}** verwendet!\n\n:arrow_right_hook: *Antworte mit `{{prefix}}configuration`, um die aktualisierte Server-Konfiguration zu sehen.*"
+    "DISABLE": "Das System ist nun deaktiviert!\n\n:arrow_right_hook: *Antworte mit `{{prefix}}configuration`, um die aktualisierte Serverkonfiguration zu sehen.*",
+    "SUCCESS": "Das System ist nun konfiguriert, es wird die **{{object}}** Statistiken alle 5 Minuten aktualisieren.\n\n:arrow_right_hook: *Antworte mit `{{prefix}}configuration`, um die aktualisierte Serverkonfiguration zu sehen.*",
+    "UPDATE": "Es wird nun **{{object}}** verwendet!\n\n:arrow_right_hook: *Antworte mit `{{prefix}}configuration`, um die aktualisierte Serverkonfiguration zu sehen.*"
 }
